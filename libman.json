@@ -15,11 +15,11 @@
       "destination": "wwwroot/lib/jquery/"
     },
     {
-      "library": "jquery-validation@1.17.0",
+      "library": "jquery-validation@1.19.1", 
       "destination": "wwwroot/lib/jquery-validation"
     },
     {
-      "library": "jquery-validation-unobtrusive@3.2.6",
+      "library": "jquery-validation-unobtrusive@3.2.11",
       "destination": "wwwroot/lib/jquery-validation-unobtrusive/"
     }
   ]
